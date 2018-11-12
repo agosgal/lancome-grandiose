@@ -1,0 +1,83 @@
+.logo{
+    width: 100%;
+    height: 200px;
+    background: black;
+    text-align: center;
+    margin-top:none
+}
+.logo img{
+    width: 350px;
+    height: 80px;
+    margin-top: 20px
+}
+.logo a{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo a:hover{
+    color: #f9e0ee
+}
+.sidebar{
+    background: black;
+    width: 300px;
+    height: 900px;
+    float: left
+}
+.sidebar a{
+    color: white;
+    text-decoration: none;
+    margin-left: 70px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.sidebar a:hover{
+    color: #f9e0ee
+}
+.texto{
+    float: left;
+    width: 1000px
+}
+.texto h2{
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fcb0da;
+    font-style: italic
+}
+.texto p{
+    margin-left: 40px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px
+}
+.texto ul{
+    margin-left: 30px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px
+}
+.footer{
+    clear: both;
+    background: #f9e0ee;
+    width: 100%;
+    height: 150px
+}
+.footer p{
+    color: white;
+    margin-left: 100px;
+}
+.footer table{
+    color: black;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.td{
+    width: 30%;
+    text-align: center;
+}   
+.hr {
+    height = 80%; //del contenedor en el que se encuentre por ejemplo
+    }
+body { margin:0 }
